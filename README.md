@@ -1,5 +1,5 @@
-# tancrystal040724
- Crystal Animation Using Tangent Functions
+# Tangent Crystal Animation
+ Crystal Animation Using Tangent Position Functions
 
 To run: 
 Open index.html in VSCode
